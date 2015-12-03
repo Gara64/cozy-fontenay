@@ -1,10 +1,6 @@
 # Description
 
-Cozy Template is a Javascript template project to start quickly your own
-application.
-
-Do you feel lost? No problem, check out our tutorial to get your started:
-http://cozy.io/hack/getting-started/
+Juts an iframe to fontenay website in a Cozy app
 
 # Run
 

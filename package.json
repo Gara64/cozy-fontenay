@@ -1,14 +1,14 @@
 {
-  "name": "cozy-template-js",
+  "name": "cozy-fontenay",
   "version": "1.0.0",
   "engines": [
     "node >= 0.10.0"
   ],
-  "description": "A template project for Cozy applications written in JavaScript",
+  "description": "Fontenay website as a Cozy app",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cozy/cozy-template.git"
+    "url": "https://github.com/Gara64/cozy-fontenay.git"
   },
   "main": "server.js",
   "dependencies": {
@@ -27,5 +27,5 @@
     "start": "node server.js"
   },
   "cozy-permissions": {},
-  "cozy-displayName": "Template"
+  "cozy-displayName": "Fontenay"
 }

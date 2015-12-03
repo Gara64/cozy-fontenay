@@ -3,7 +3,7 @@
 var index = require('./index');
 
 module.exports = {
-  'foo': {
+  '': {
     get: index.main
   }
 };
